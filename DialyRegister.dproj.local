@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/04/10 22:35:08.124.pas,C:\Users\Dark Angel\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Dark Angel\Documents\RAD Studio\Projects\Dialy Registery\uMain.pas</Transaction>
+    <Transaction>2016/04/10 22:35:08.155.dfm,C:\Users\Dark Angel\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Dark Angel\Documents\RAD Studio\Projects\Dialy Registery\uMain.dfm</Transaction>
+    <Transaction>2016/04/10 22:35:20.011.dproj,C:\Users\Dark Angel\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\Dark Angel\Documents\RAD Studio\Projects\Dialy Registery\DialyRegistery.dproj</Transaction>
+    <Transaction>2016/04/10 23:30:29.517.pas,C:\Users\Dark Angel\Documents\RAD Studio\Projects\Dialy Registery\Unit2.pas=C:\Users\Dark Angel\Documents\RAD Studio\Projects\Dialy Registery\uAddSupplier.pas</Transaction>
+    <Transaction>2016/04/10 23:30:29.517.dfm,C:\Users\Dark Angel\Documents\RAD Studio\Projects\Dialy Registery\Unit2.dfm=C:\Users\Dark Angel\Documents\RAD Studio\Projects\Dialy Registery\uAddSupplier.dfm</Transaction>
+    <Transaction>2016/04/10 23:53:58.223.pas,C:\Users\Dark Angel\Documents\RAD Studio\Projects\Dialy Registery\Unit1.pas=C:\Users\Dark Angel\Documents\RAD Studio\Projects\Dialy Registery\uAddInvoice.pas</Transaction>
+    <Transaction>2016/04/10 23:53:58.223.dfm,C:\Users\Dark Angel\Documents\RAD Studio\Projects\Dialy Registery\Unit1.dfm=C:\Users\Dark Angel\Documents\RAD Studio\Projects\Dialy Registery\uAddInvoice.dfm</Transaction>
+    <Transaction>2016/04/11 18:54:46.286.dproj,C:\Users\Dark Angel\Documents\RAD Studio\Projects\Dialy Registery\DialyRegistery.dproj=C:\Users\Dark Angel\Documents\RAD Studio\Projects\Dialy Registery\DialyRegister.dproj</Transaction>
+    <Transaction>2016/04/13 20:20:36.594.pas,C:\Users\Dark Angel\Documents\RAD Studio\Projects\Dialy Registery\Unit1.pas=C:\Users\Dark Angel\Documents\RAD Studio\Projects\Dialy Registery\uInvoices.pas</Transaction>
+    <Transaction>2016/04/13 20:20:36.594.dfm,C:\Users\Dark Angel\Documents\RAD Studio\Projects\Dialy Registery\Unit1.dfm=C:\Users\Dark Angel\Documents\RAD Studio\Projects\Dialy Registery\uInvoices.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
